@@ -1,6 +1,6 @@
 <h3 align="center">I'm Facundo, a passionate backend developer ⚡</h3>
 
-<hr size="1px">
+<hr style="width:1px">
 
 <p align="center">
 - 🔥My main and favorite programming language is Java and its framework Spring
