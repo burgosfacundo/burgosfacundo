@@ -1,5 +1,5 @@
 <h1 align="center">Hi! Welcome to my Profile! </h1>
-<h2 align="center">I'm Facundo, a passionate backend developer ⚡</h2>
+<h3 align="center">I'm Facundo, a passionate backend developer ⚡</h2>
 <br>
 <p align="center">
 - 🔥My main and favorite programming language is Java and its framework Spring
