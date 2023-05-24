@@ -1,16 +1,19 @@
 <h3 align="center">I'm Facundo, a passionate backend developer ⚡</h3>
 <p align="center">
 - 🔥My main and favorite programming language is Java and its framework Spring
-
+ <p/>
+ <p align="center">
 - 🤝 I also have knowledge in JavaScript and React
-
+ <p/>
+<p align="center">
 - 📖 I'm actually studying C# and tecnologies .NET
  <p/>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/burgosfacundo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/burgosfacundo/" height="30" width="40" /></a>
-  <a href="mailto:facundoandresbur@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2250/2250078.png" alt="mailto:facundoandresbur@gmail.com" height="30" width="40" /></a>
+  <a href="mailto:facundoandresbur@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/36a170186381f453a11384a20d5cbbafccb4aeb8e4381d31ef8596327ed602f1/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64662f4d6963726f736f66745f4f66666963655f4f75746c6f6f6b5f2532383230313825453225383025393370726573656e742532392e7376672f38303070782d4d6963726f736f66745f4f66666963655f4f75746c6f6f6b5f2532383230313825453225383025393370726573656e742532392e7376672e706e67" alt="mailto:facundoandresbur@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
