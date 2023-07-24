@@ -8,7 +8,7 @@
 - 🤝 I also have knowledge in JavaScript and React
  <p/>
 <p align="center">
-- 📖 I'm actually studying C# and tecnologies .NET
+- 📖 I'm actually studying C# and technologies .NET
  <p/>
 
 
