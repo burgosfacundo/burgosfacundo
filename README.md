@@ -7,9 +7,7 @@
  <p align="center">
 - 🤝 I also have knowledge in JavaScript and React
  <p/>
-<p align="center">
-- 📖 I'm actually studying C# and technologies .NET
- <p/>
+
 
 
 <h2 align="center">Connect with me:</h2>
