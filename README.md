@@ -2,7 +2,7 @@
 <h3 align="center">I'm Facundo, a passionate backend developer ⚡</h2>
 <br>
 <p align="center">
-- 🔥My main and favorite programming language is Java and its framework Spring
+- 🔥My main and favorite programming language is Java and its framework Spring and JavaFX
  <p/>
  <p align="center">
 - 🤝 I also have knowledge in JavaScript and React
