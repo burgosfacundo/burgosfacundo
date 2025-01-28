@@ -23,8 +23,10 @@
 <h2 align="center">Languages and Tools:</h2>
 <br>
 <p align="center"> 
- <a href="https://openjfx.io/" target="_blank" rel="noreferrer">
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+   </a>
+ <a href="https://openjfx.io/" target="_blank" rel="noreferrer">
    <img src="https://codigojava.online/wp-content/uploads/2023/02/JavaFX.png" alt="javafx" width="55" height="55"/>
  </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
