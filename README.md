@@ -25,7 +25,7 @@
 <p align="center"> 
  <a href="https://openjfx.io/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-   <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2021/07/communityIcon_4v21sx0aiam41.png?fit=256%2C171&ssl=1)g" alt="javafx" width="40" height="40"/>
+   <img src="https://sdtimes.com/wp-content/uploads/2018/03/jfxlogopad1.png" alt="javafx" width="40" height="40"/>
  </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
