@@ -13,7 +13,9 @@
 <h2 align="center">Connect with me:</h2>
 <br>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/burgosfacundo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/burgosfacundo/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/burgosfacundo/" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"alt="https://www.linkedin.com/in/burgosfacundo/" height="30" width="40" />
+</a>
   <a href="mailto:facundoandresbur@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/800px-Mail_%28iOS%29.svg.png" alt="mailto:facundoandresbur@gmail.com" height="30" width="40" /></a>
 </p>
 
@@ -23,7 +25,7 @@
 <p align="center"> 
  <a href="https://openjfx.io/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JavaFX_logo.svg" alt="javafx" width="40" height="40"/>
+   <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2021/07/communityIcon_4v21sx0aiam41.png?fit=256%2C171&ssl=1)g" alt="javafx" width="40" height="40"/>
  </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
