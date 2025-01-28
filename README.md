@@ -21,12 +21,9 @@
 <h2 align="center">Languages and Tools:</h2>
 <br>
 <p align="center"> 
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
- </a>
  <a href="https://openjfx.io/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javafx/javafx-original.svg" alt="javafx" width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JavaFX_logo.svg" alt="javafx" width="40" height="40"/>
  </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
